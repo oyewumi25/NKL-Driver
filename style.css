@@ -13,6 +13,7 @@ header{
     margin: 20px auto;
 }
 
+
 header .navbar{
     display: flex;
     width: 80%;
@@ -224,6 +225,7 @@ h1{
   }
 
 /*Box simple**/
+
 .box{
     border-radius: 15px;
     display: flex;
