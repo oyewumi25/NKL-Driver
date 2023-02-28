@@ -141,6 +141,7 @@ h1{
     background: rgba(47, 137, 252, 0.6);
     min-height: 30vh;
     width: 100%;
+    margin:20
 }
 
     @media (min-width:1024px) {
@@ -168,6 +169,7 @@ h1{
 /**App Gauche***/
 .app .right img{
     margin-top: -98px;
+    margin-right: 60;
 }
 
 /***avantages****/
@@ -327,6 +329,7 @@ button{
 hr{ 
     margin-right: 119px;
     margin-left: 119px;
+   
 }
 
 .footer{
