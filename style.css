@@ -2,10 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 body{
     background-color: #F5F5F5;
+    max-width: 1800px;
+    margin: 0 auto;
+    /*padding: 0 2px;*/
 }
 
 header{
@@ -43,7 +47,9 @@ header .navbar ul{
     font-weight: bold;
     padding-bottom: 10px;
 }
-
+p{
+    font-family: "poppins";
+}
 header .nav ul li{
     height: 24px;
     justify-content: space-between;
@@ -87,6 +93,7 @@ h1{
 #point{
     margin-left: -16%;
     font-family:'poppins';
+    
 }
 
 .frame{
